@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**HBIDamian/HBIDamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HBIDamian
 
-Here are some ideas to get you started:
+<img src="https://hbidamian.xyz/img/about/man.png" height="400px" alt="Image of Me">
+I pretty much just create random pieces of rubbish. I have made a few project's in my time. They're normally only useful for certain scenarios. At this point I don't want to ramble on about me,  as I just wanted a readme.md to stand out a little at this point. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Social Media: <img align="left" width="200" height="200" src="https://hbidamian.xyz/img/about/color_grid.png">
+
+<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="16px"> <a href="https://twitter.com/hbidamian">@HBIDamian</a>
+
+<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" height="16px"> <a href="https://uk.linkedin.com/in/damian-hall-beal-ab3990186">LinkedIn</a>
+
+<img src="https://cdn1.iconfinder.com/data/icons/material-core/20/language-512.png" height="16px"> <a href="https://hbidamian.xyz">My Website</a>
