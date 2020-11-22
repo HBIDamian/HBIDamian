@@ -1,8 +1,16 @@
 
 # HBIDamian
 
-<img src="https://hbidamian.xyz/img/about/man.png" height="200px" alt="Image of Me">
-I pretty much just create random pieces of rubbish. I have made a few project's in my time. They're normally only useful for certain scenarios. At this point I don't want to ramble on about me,  as I just wanted a readme.md to stand out a little at this point. 
+<table>
+<tbody>
+<tr>
+<td width="210px"><img src="https://hbidamian.xyz/img/about/man.png" height="200px" width="200px" alt="Image of Me"></td>
+<td><p>I pretty much just create random pieces of rubbish. I have made a few project's in my time. They're normally only useful for certain scenarios. At this point I don't want to ramble on about me,  as I just wanted a readme.md to stand out a little at this point. 
+<p></td>
+</tr>
+</tbody>
+</table>
+
 
 
 
