@@ -14,7 +14,7 @@
 
 
 
-## Social Media: <img align="left" width="160" height="160" src="https://hbidamian.xyz/img/about/color_grid.png">
+## Social Media: <img align="left" width="160" height="160" src="https://hbidamian.xyz/assets/images/pfp.png">
 
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="16px"> <a href="https://twitter.com/hbidamian">@HBIDamian</a>
 
