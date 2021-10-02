@@ -20,4 +20,4 @@
 
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" height="16px"> <a href="https://uk.linkedin.com/in/damian-hall-beal-ab3990186">LinkedIn</a>
 
-<img src="https://cdn1.iconfinder.com/data/icons/material-core/20/language-512.png" height="16px"> <a href="https://hbidamian.xyz">My Website</a>
+<img src="https://hbidamian.xyz/assets/images/about.png" height="16px"> <a href="https://hbidamian.xyz">My Website</a>
