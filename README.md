@@ -15,5 +15,3 @@
 </tr>
 </tbody>
 </table>
-
-![Metrics](https://metrics.lecoq.io/HBIDamian?template=classic&base.indepth=true&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&gists=false&config.timezone=Europe%2FLondon&config.twemoji=true)
