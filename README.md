@@ -96,8 +96,6 @@ Want to chat about code, life, or why my projects are called "slop"? I'm surpris
 
 **Made with questionable coding practices** 🎭
 
-```javascript
-console.log("Thanks for visiting!");
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&random=true&width=512&separator=%3C&lines=if+(projectDeadline+%3D%3D%3D+now)+%7B+procrastinate();+%7D+%3Cif+(coffee)+%7B+productivity%2B%2B;+%7D+%3Cgit+commit+-m+'it+works%2C+but+how%3F!'+%3Cwhile+(motivation)+%7B+code();+%7D%3C%2F%2F+TODO%3A+Clean+up+this+mess!+)](https://git.io/typing-svg)
 
 </div>
